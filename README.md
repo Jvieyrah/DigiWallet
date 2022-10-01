@@ -2,9 +2,9 @@
 
 A experimental front-end React-Redux interface to manage expances in several currencies, including criptos, using real time convertion rates.
 
-The files enlisted in this repository were fully developed by @Jvieyrah amd to run them in your machine make sure you have the latest version of Node JS installed at your machine, alonsside with react and redux.
+The files enlisted in this repository were fully developed by @Jvieyrah and to run them in your machine make sure you have the latest version of Node JS installed at your machine, alongside with react and redux.
 
-Before start - enter the clonned repositoryand instal it's the dependencies by typing on your terminal: npm install
+Before start - enter the clonned repository and instal it's the dependencies by typing on your terminal: npm install
 once installed typy 'npm start' at your terminal to run it on your browser.
 
 Insert any valid e-mail and a six digit password ( for displaying reasions it does require an actual account).
